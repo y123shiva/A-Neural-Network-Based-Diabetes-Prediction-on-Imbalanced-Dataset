@@ -21,15 +21,13 @@ REQUIRED LIBRARY AND EDITOR
 3. Pandas
 4. Matplotlib
 5. Seaborn
-6.Sklearn
+6. Sklearn
 
 Conclusion
 
 In this paper, we have proposed a model for classification tasks to predict diabetes. The classification method focuses on some problems regarding diabetes prediction. It considered the challenge is the presence of a missing value, outliers, and un-balances class distribution seen in the medical record. The algorithm designed for working with the data preprocessing and classification steps. Reduction of the high dimensionality of the dataset that enhances the quality of dataset with decreased class imbalance where preprocessing play an important role in robust and precise prediction for classifying the diabetes dataset. These preprocessing steps can improve the kurtosis and skewness of the attribute distribution in PIDD data.The analysis of variance using an f-test improvement in the correlation between features concerning the outcome classification. The validity of the MLP classifier is verified by using the KCV validation strategy. Due to the presence of class imbalance, other than accuracy performance metrics used as comparative indicators in the model. The comparison of results interprets that our proposed algorithm as out-performed benchmark algorithms in the experiments based on accuracy and other performance metrics of classifier; we have shown that great initiative for the prediction from the PIDD data.
 
-Future work
-
-In future work, we hope to use this proposed algorithm for the analysis of other types of diseases with some extension and improvement in the algorithm for the classification task. There are also plans to use this proposed framework for building a web application with a user-friendly interface.
+*********************************************************************************************************************************************************************
 Presented a Research Paper titled “ A Neural Network based Diabetes Prediction on Imbalanced Data ” in IEEE International Conference CSNT - 2021.And Published in IEEE.
 The link is mentioned below:Presentation (ppt file)-https://www.slideshare.net/shivani28yadav/edit_my_uploads
 
